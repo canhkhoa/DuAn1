@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Downloads\\DuAn1\\Duan1\\Solution2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46D77D67-6169-492B-A11B-6B9C740E1A98}|GUI\\GUI.csproj|c:\\users\\admin\\downloads\\duan1\\duan1\\solution2\\gui\\view\\fthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46D77D67-6169-492B-A11B-6B9C740E1A98}|GUI\\GUI.csproj|solutionrelative:gui\\view\\fthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D77D67-6169-492B-A11B-6B9C740E1A98}|GUI\\GUI.csproj|C:\\Users\\admin\\Downloads\\DuAn1\\Duan1\\Solution2\\gui\\fhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46D77D67-6169-492B-A11B-6B9C740E1A98}|GUI\\GUI.csproj|solutionrelative:gui\\fhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D77D67-6169-492B-A11B-6B9C740E1A98}|GUI\\GUI.csproj|C:\\Users\\admin\\Downloads\\DuAn1\\Duan1\\Solution2\\gui\\view\\ffoodview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46D77D67-6169-492B-A11B-6B9C740E1A98}|GUI\\GUI.csproj|solutionrelative:gui\\view\\ffoodview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D77D67-6169-492B-A11B-6B9C740E1A98}|GUI\\GUI.csproj|C:\\Users\\admin\\Downloads\\DuAn1\\Duan1\\Solution2\\gui\\model\\fnhanvienadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46D77D67-6169-492B-A11B-6B9C740E1A98}|GUI\\GUI.csproj|solutionrelative:gui\\model\\fnhanvienadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23F07A0-0FB4-41BE-BEE0-73843A95DBFA}|DAL\\DAL.csproj|C:\\Users\\admin\\Downloads\\DuAn1\\Duan1\\Solution2\\dal\\fooddal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23F07A0-0FB4-41BE-BEE0-73843A95DBFA}|DAL\\DAL.csproj|solutionrelative:dal\\fooddal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D77D67-6169-492B-A11B-6B9C740E1A98}|GUI\\GUI.csproj|C:\\Users\\admin\\Downloads\\DuAn1\\Duan1\\Solution2\\gui\\fdatbanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D77D67-6169-492B-A11B-6B9C740E1A98}|GUI\\GUI.csproj|solutionrelative:gui\\fdatbanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D77D67-6169-492B-A11B-6B9C740E1A98}|GUI\\GUI.csproj|C:\\Users\\admin\\Downloads\\DuAn1\\Duan1\\Solution2\\gui\\fdatbanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46D77D67-6169-492B-A11B-6B9C740E1A98}|GUI\\GUI.csproj|solutionrelative:gui\\fdatbanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D77D67-6169-492B-A11B-6B9C740E1A98}|GUI\\GUI.csproj|C:\\Users\\admin\\Downloads\\DuAn1\\Duan1\\Solution2\\gui\\view\\fspnhapkhoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46D77D67-6169-492B-A11B-6B9C740E1A98}|GUI\\GUI.csproj|solutionrelative:gui\\view\\fspnhapkhoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE8744B-FF79-4454-A014-72D30AA0B81F}|DTO\\DTO.csproj|C:\\Users\\admin\\Downloads\\DuAn1\\Duan1\\Solution2\\dto\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE8744B-FF79-4454-A014-72D30AA0B81F}|DTO\\DTO.csproj|solutionrelative:dto\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FNhanvienAdd.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\DuAn1\\Duan1\\Solution2\\GUI\\Model\\FNhanvienAdd.cs",
+              "RelativeDocumentMoniker": "GUI\\Model\\FNhanvienAdd.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\nguyencanhkhoa\\adbc\\Solution2\\GUI\\Model\\FNhanvienAdd.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\nguyencanhkhoa\\adbc\\Solution2\\GUI\\Model\\FNhanvienAdd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:17:55.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FHoaDon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\DuAn1\\Duan1\\Solution2\\GUI\\FHoaDon.cs",
+              "RelativeDocumentMoniker": "GUI\\FHoaDon.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\nguyencanhkhoa\\adbc\\Solution2\\GUI\\FHoaDon.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\nguyencanhkhoa\\adbc\\Solution2\\GUI\\FHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:17:22.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FThongKe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\DuAn1\\Duan1\\Solution2\\GUI\\View\\FThongKe.cs",
+              "RelativeDocumentMoniker": "GUI\\View\\FThongKe.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\DuAn1\\Duan1\\Solution2\\GUI\\View\\FThongKe.cs [Design]",
+              "RelativeToolTip": "GUI\\View\\FThongKe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:14:34.779Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FFoodView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\DuAn1\\Duan1\\Solution2\\GUI\\View\\FFoodView.cs",
+              "RelativeDocumentMoniker": "GUI\\View\\FFoodView.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\nguyencanhkhoa\\adbc\\Solution2\\GUI\\View\\FFoodView.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\nguyencanhkhoa\\adbc\\Solution2\\GUI\\View\\FFoodView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:09:04.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FoodDAL.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\DuAn1\\Duan1\\Solution2\\DAL\\FoodDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\FoodDAL.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\DuAn1\\Duan1\\Solution2\\DAL\\FoodDAL.cs",
+              "RelativeToolTip": "DAL\\FoodDAL.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAASwBoAAACJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:08:45.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\DuAn1\\Duan1\\Solution2\\DTO\\Food.cs",
+              "RelativeDocumentMoniker": "DTO\\Food.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\DuAn1\\Duan1\\Solution2\\DTO\\Food.cs",
+              "RelativeToolTip": "DTO\\Food.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAA5wDUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:08:37.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FDatBanAn.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\DuAn1\\Duan1\\Solution2\\GUI\\FDatBanAn.cs",
+              "RelativeDocumentMoniker": "GUI\\FDatBanAn.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\DuAn1\\Duan1\\Solution2\\GUI\\FDatBanAn.cs",
+              "RelativeToolTip": "GUI\\FDatBanAn.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAswJcAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:04:34.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FDatBanAn.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\DuAn1\\Duan1\\Solution2\\GUI\\FDatBanAn.cs",
+              "RelativeDocumentMoniker": "GUI\\FDatBanAn.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\nguyencanhkhoa\\adbc\\Solution2\\GUI\\FDatBanAn.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\nguyencanhkhoa\\adbc\\Solution2\\GUI\\FDatBanAn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:04:32.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FSPNhapKhoView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\DuAn1\\Duan1\\Solution2\\GUI\\View\\FSPNhapKhoView.cs",
+              "RelativeDocumentMoniker": "GUI\\View\\FSPNhapKhoView.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\nguyencanhkhoa\\adbc\\Solution2\\GUI\\View\\FSPNhapKhoView.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\nguyencanhkhoa\\adbc\\Solution2\\GUI\\View\\FSPNhapKhoView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:03:36Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
